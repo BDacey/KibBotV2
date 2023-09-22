@@ -1,1 +1,2 @@
-# KibBotV2
+# KibBot-Real-edition
+ Discord bot
